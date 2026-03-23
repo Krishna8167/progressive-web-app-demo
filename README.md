@@ -15,11 +15,7 @@ HTML, CSS, JavaScript, Service Worker, Manifest
 
 ## Run
 
-Use a local server:
-
-```
-npx serve
-```
+Use a local server
 
 ## Summary
 
