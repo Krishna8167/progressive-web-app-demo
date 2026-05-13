@@ -1,4 +1,4 @@
-# Tab Tracker PWA
+# Tab Tracker extension
 
 A minimal Progressive Web App to save and revisit important links.
 
